@@ -1,4 +1,4 @@
-<h2> ================    Enterprise Network   ====================== </h2>
+<h2> ===    Enterprise Network   === </h2>
 <h4> Student ID : 10551123 </h4>
 <h4> Subject code : B91S121 </h4>
 <h4> Subject Name : Sem 1 | Network and System Administration  </h4>
