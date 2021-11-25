@@ -4,9 +4,10 @@
 <h4> Student Name : Vaibhav Dadas </h4>
 
 <h2> Following things will be required to run GNS3 File present in git repo </h2> </br>
-
 <h4> Software which needs to be downloaded : </h4>
 <h4> GNS3 , VM WorkPlayer </h4>
+
+<h2> Steps to Get things Going </h2> </br>
 <h4> Open GNS3 and under File section import it as a portable project </h4>
 <h4> once everything is loaded select all components and click on Play button on the top to run all components at once </h4>
 <h4> then you would need to configure DHCP in console mode by following command </h4>
